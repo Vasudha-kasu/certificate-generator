@@ -54,7 +54,7 @@ There are three endpoints:
 {
   "course_name": "Python Backend Workshop",
   "recipients": [
-    {"name": "Asha Rao", "email": "asha@example.com"},
+    {"name": "Asha", "email": "asha@example.com"},
     {"name": "Ravi Kumar", "email": "not-an-email"}
   ]
 }
